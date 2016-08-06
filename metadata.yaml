@@ -1,0 +1,25 @@
+_repo: Our-Gift_10853
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Teachers of the School Street Universalist Sunday School. Boston
+    gutenberg_agent_id: '3720'
+    url: http://www.gutenberg.org/2009/agents/3720
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10853'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile literature'
+- !lcc 'PZ'
+- !lcsh 'Gift books'
+- !lcsh 'Children''s stories'
+- !lcsh 'Children''s poetry'
+- GITenberg
+title: Our Gift
+url: http://www.gutenberg.org/ebooks/10853
